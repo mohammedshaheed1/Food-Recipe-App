@@ -8,6 +8,7 @@ function Header() {
         <ul className='flex space-x-4'>
           <li>
             <a href="/" className='hover:text-gray-400'>Home</a>
+            {/* nothing */}
           </li>
           <li>
             <a href="/checkout" className='hover:text-gray-400'>Checkout</a>
